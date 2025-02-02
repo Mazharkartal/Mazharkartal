@@ -1,13 +1,24 @@
-Hello! My name is Mazhar Kartal, and I'm 20 years old. I am a second-year student in the Computer Programming department at Izmir Ege University's Tire Kutsan Vocational School. I possess various skills in programming:
+👋 Merhaba, ben Mazhar Kartal!
+🚀 Full Stack Web Developer | .NET Geliştiricisi
+💻 Backend Geliştirme | C#, .NET
+🎓 Ege Üniversitesi - Bilgisayar Programcılığı Mezunu
 
-- I have advanced knowledge in C#.
-- I am proficient in MySQL databases.
-- Currently, I am learning the Python programming language.
-- I am also taking courses in languages like HTML, PHP, and Java, continuously enhancing my skills in these areas.
+Merhaba! Ben Mazhar, yazılım dünyasında kendimi sürekli geliştiren bir geliştiriciyim. .NET ve Laravel başta olmak üzere çeşitli teknolojilerle backend geliştirme yapıyorum. Aynı zamanda HTML, CSS, JavaScript ve MSSQL gibi teknolojilerle de çalışıyorum.
 
-You can find my software projects and works on my GitHub account. I enjoy working on new projects and code examples. I plan to further advance my skills in Python in the coming days. It's worth following me!
+🛠️ Becerilerim:
+✔ C#, .NET Core, ASP.NET
+✔ MSSQL
+✔ HTML, CSS, JavaScript
+✔ REST API, Web Servisleri
 
-My GitHub Account: [Your GitHub Link](github.com/MazharKartal) 
+📌 Projelerim:
+Gerçek hayat problemlerine çözüm üreten yazılım projeleri geliştirmeyi seviyorum. GitHub hesabımda üzerinde çalıştığım açık kaynak projeleri ve kişisel çalışmalarımı bulabilirsin.
+
+📫 Benimle iletişime geç:
+
+💼 LinkedIn
+📧 mazharkartal4756@example.com
+💡 Yeni teknolojileri öğrenmek ve yazılım dünyasında kendimi geliştirmek benim için bir tutku!
 
 <!---
 Mazharkartal/Mazharkartal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
