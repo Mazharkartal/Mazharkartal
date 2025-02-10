@@ -3,7 +3,7 @@
 💻 Backend Geliştirme | C#, .NET
 🎓 Ege Üniversitesi - Bilgisayar Programcılığı Mezunu
 
-Merhaba! Ben Mazhar, yazılım dünyasında kendimi sürekli geliştiren bir geliştiriciyim. .NET ve Laravel başta olmak üzere çeşitli teknolojilerle backend geliştirme yapıyorum. Aynı zamanda HTML, CSS, JavaScript ve MSSQL gibi teknolojilerle de çalışıyorum.
+Yazılım dünyasında kendimi sürekli geliştiren bir geliştiriciyim. .NET başta olmak üzere çeşitli teknolojilerle backend geliştirme yapıyorum. Aynı zamanda HTML, CSS, JavaScript ve MSSQL gibi teknolojilerle de çalışıyorum.
 
 🛠️ Becerilerim:
 ✔ C#, .NET Core, ASP.NET
