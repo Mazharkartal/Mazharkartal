@@ -16,8 +16,8 @@ Gerçek hayat problemlerine çözüm üreten yazılım projeleri geliştirmeyi s
 
 📫 Benimle iletişime geç:
 
-💼 LinkedIn
-📧 mazharkartal4756@example.com
+💼 LinkedIn = https://www.linkedin.com/in/mazhar-kartal-3630a22b5/
+📧 mazharkartal4756@gmail.com
 💡 Yeni teknolojileri öğrenmek ve yazılım dünyasında kendimi geliştirmek benim için bir tutku!
 
 <!---
